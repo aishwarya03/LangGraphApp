@@ -1,0 +1,12 @@
+flask==3.0.3
+langgraph==0.2.34
+
+langchain==0.2.14
+langchain-core==0.2.41
+
+langchain-openai==0.1.23
+openai==1.40.6
+
+python-dotenv==1.0.1
+requests==2.32.3
+tqdm==4.66.4
